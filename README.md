@@ -1,2 +1,2 @@
-wolf-work: An Open Learning Analytics Workflow Repository
+olaworkflows: Open Learning Analytics Workflows
 =========
